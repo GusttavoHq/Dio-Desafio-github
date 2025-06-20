@@ -1,6 +1,11 @@
 introdução do Git/Github
 o Git é um sistema de controle de versão distribuido ferramentas essencial para desenvolver.
 Mas também serve para qualquer pessoa que trabalhe com arquivos.
+Alguns conceitos-chave:
+Commit: Um registro de alterações feitas nos arquivos.
+Branch: Uma ramificação do projeto onde você pode testar novas ideias sem afetar a versão principal.
+Merge: O processo de integrar alterações de uma branch a outra.
+Clone e Push: Clonar um projeto para sua máquina e depois enviar alterações para um repositório remoto (como o GitHub).
 
 Link para fazer downloads do Git
 https://git-scm.com/download
